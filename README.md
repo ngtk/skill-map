@@ -1,2 +1,3 @@
-# skill-map
-Skill Map
+# My skill map
+
+![skill-map.png](skill-map.png)
